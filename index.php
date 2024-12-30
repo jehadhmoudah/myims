@@ -56,7 +56,7 @@ if ($_POST) {
 <html>
 
 <head>
-	<title>Stock Management System</title>
+	<title>Inventory Management System</title>
 
 
 	<!-- bootstrap theme-->

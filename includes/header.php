@@ -4,7 +4,7 @@
 <html>
 <head>
 
-	<title>Stock Management System</title>
+	<title>Inventory Management System</title>
   <script src="https://kit.fontawesome.com/853e0623e4.js" crossorigin="anonymous"></script>
 	<!-- bootstrap -->
 	<link rel="stylesheet" href="assests/bootstrap/css/bootstrap.css">
@@ -13,7 +13,10 @@
 	<!-- font awesome -->
 	<link rel="stylesheet" href="assests/font-awesome/css/font-awesome.min.css">
 
- 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
 
 	<!-- DataTables -->
   <link rel="stylesheet" href="assests/plugins/datatables/jquery.dataTables.min.css">
